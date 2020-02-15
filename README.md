@@ -1,6 +1,6 @@
 # NoteTaker
 ---
-###Simple application to demo REST API calls
+### Simple application to demo REST API calls
 
 This Node/Express JS application gives an overview of REST API calls
 - GET - `route - /api/notes` Reads data from a JSON file
